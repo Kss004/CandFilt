@@ -1,0 +1,201 @@
+name,skills,optionalSkills,instituteName,course,minExperience,maxExperience,phoneNumber,email,companyName
+Karan Shukla,Reinforcement Learning;Rust;Computer Vision;React;Excel Automation;Kubernetes,Verilog;UI/UX;JavaScript,Lovely Professional University,M.Tech AI,6,9,6987770265,karan.shukla103@outlook.com,CloudNova
+Pooja Ghosh,PyTorch;Verilog;Deep Learning;Computer Graphics;Tableau;Product Analytics;Unity,PySpark;Angular;Mockito;Spring Boot;LLM Fine-tuning,NIT Trichy,MCA,1,3,7266990907,pooja.ghosh802@hotmail.com,QuantumByte
+Tanya Bhatia,YOLO;Event-Driven Architecture;C++;OpenAI API,Mockito;Product Analytics;3D Modelling,BITS Pilani,B.Tech IT,5,11,8761272313,tanya.bhatia489@hotmail.com,GammaCloud
+Neha Khan,Performance Tuning;Tableau;TensorFlow;Event-Driven Architecture;TDD;Deep Learning;GraphQL,BDD;Express;Embedded Systems,Jamia Millia Islamia,B.Tech Data Science,0,4,9859523819,neha.khan757@hotmail.com,Matrix Dynamics
+Tanya Das,Prompt Engineering;Angular;Terraform;Java;Mockito;Edge Computing;Integration Testing,3D Modelling;Security;Figma,IIIT Bengaluru,B.Tech IT,3,10,8753584527,tanya.das738@hotmail.com,DataPulse Analytics
+Ananya Suri,GraphQL;Kafka;Deep Learning,Security;FastAPI;3D Modelling;C++;Airflow,IIT Kharagpur,B.Sc CS,1,1,6848847537,ananya.suri31@outlook.com,Meowww AI
+Varun Pandey,Swift;NumPy;Test Automation,TypeScript;Speech Synthesis;LangChain,Banaras Hindu University,B.Tech Data Science,5,8,8070126042,varun.pandey780@outlook.com,GammaCloud
+Sneha Gupta,Data Engineering;HuggingFace Transformers;Jenkins;TDD;Keras;Hugging Face,GitHub Actions;LLM Fine-tuning;BDD;Power BI;CloudFormation,Anna University,B.Tech Software,4,4,7499123472,sneha.gupta232@hotmail.com,BlueOrbit
+Rahul Khan,Python;Azure;Node.js;UI/UX,MySQL;PySpark,Manipal University Jaipur,B.Tech CSE,1,3,9915995174,rahul.khan61@yahoo.com,Rivernode
+Varun Chatterjee,Unreal Engine;Speech Recognition;PostgreSQL;CI/CD;TypeScript;Blockchain,Redis;Airflow;C++;Seaborn,NIT Surathkal,B.Tech Software,6,7,7102295513,varun.chatterjee655@hotmail.com,BridgeTech
+Kunal Chopra,Test Automation;Matplotlib;Mixpanel;Pandas,Hugging Face;Smart Contracts,Christ University Bangalore,MBA Technology,5,11,8538656711,kunal.chopra685@outlook.com,LumenSoft
+Ishan Bhatia,JavaScript;Seaborn;OpenAI API;Vue.js;Computer Vision;GitHub Actions;GraphQL,Product Analytics;Redis;PostgreSQL;Payments,St. Xavier's College Mumbai,B.Sc CS,0,3,7187421797,ishan.bhatia110@outlook.com,Pulse9
+Aditya Mehta,Kafka;HuggingFace Transformers;Test Automation;Hugging Face;Next.js;Jenkins,C++;TDD;OpenCV;PostgreSQL,St. Xavier's College Mumbai,B.Tech Data Science,4,9,6054843986,aditya.mehta106@outlook.com,BlueOrbit
+Karan Khan,Verilog;Kubernetes;FastAPI;Swift;Mockito;Java,REST APIs;Accessibility;Terraform;Stream Processing;Django,IIT Madras,B.Tech AIML,2,6,7336963456,karan.khan52@hotmail.com,BridgeTech
+Ishita Das,PostgreSQL;Flask;PyTorch;Product Analytics,Kafka;Terraform,IIT Roorkee,MCA,7,12,6329390481,ishita.das948@gmail.com,BridgeTech
+Simran Patel,Go;Seaborn;Security,IoT;Deep Learning;Product Analytics;Computer Vision,IIIT Delhi,B.Tech IT,3,9,6653819740,simran.patel858@yahoo.com,Finovate Systems
+Ananya Gupta,Unity;Speech Recognition;C++;Accessibility;GitHub Actions,ElasticSearch;GraphQL;Pandas,Delhi University,B.Tech CSE,2,9,8590758500,ananya.gupta624@yahoo.com,Quark Labs
+Kabir Joshi,CI/CD;Unity;YOLO;OAuth2;TypeScript;Figma,Mockito;Mixpanel;Speech Synthesis;Game Dev;Express,NIT Warangal,B.Tech ECE,5,6,8539123137,kabir.joshi841@outlook.com,Astra Robotics
+Ishan Sharma,Vue.js;GraphQL;Retrieval-Augmented Generation (RAG),Swift;Test Automation;SaaS;Object Detection,IIIT Delhi,B.Tech Mech,5,12,8423225112,ishan.sharma222@gmail.com,Flux Innovations
+Raghu Chatterjee,Distributed Systems;JavaScript;Hugging Face;AWS;NumPy,Robotic Process Automation (RPA);Microservices;Performance Tuning;Game Dev,IIT Bombay,B.Tech CSE,1,7,6509284192,raghu.chatterjee543@gmail.com,Pulse9
+Liya Iyer,Plotly;ElasticSearch;TensorFlow;OpenAI API,UI/UX;Hadoop;Verilog,IIT Kanpur,M.Tech AI,8,13,7742202767,liya.iyer577@yahoo.com,Flux Innovations
+Priya Joshi,Airflow;Mockito;Playwright;Blockchain;Unit Testing;Hugging Face;Objective-C,Kafka;HuggingFace Transformers;GCP;Plotly;Jenkins,VIT Vellore,B.Tech Civil,2,8,6116273602,priya.joshi912@yahoo.com,Flux Innovations
+Vikram Sharma,Power BI;Integration Testing;PySpark,Retrieval-Augmented Generation (RAG);TDD;C,Banaras Hindu University,B.Tech Mech,1,2,9337997373,vikram.sharma932@gmail.com,QuantumByte
+Ananya Sharma,Kafka;UI/UX;LangChain;Playwright;Object Detection;CI/CD,Unit Testing;Docker;Vue.js;VHDL;Verilog,IISc Bangalore,B.Tech AIML,7,10,8317160228,ananya.sharma26@yahoo.com,Sage Analytics
+Aditya Sharma,Signal Processing;Mixpanel;LangChain;System Design;Plotly,3D Modelling;Performance Tuning,SRM University Chennai,B.Tech Mech,0,0,8529719479,aditya.sharma42@outlook.com,BridgeTech
+Kabir Malhotra,Edge Computing;Kafka;Smart Contracts;Keras;Deep Learning;CI/CD;Angular,REST APIs;MongoDB;PostgreSQL;HuggingFace Transformers,IIT Roorkee,B.Tech AIML,5,7,8519355916,kabir.malhotra246@outlook.com,EverStream
+Liya Thakur,MATLAB;Pandas;Spark,SaaS;GraphQL,SRM University Chennai,B.Tech Mech,2,7,9631035673,liya.thakur530@yahoo.com,InnoEdge Solutions
+Gaurav Mehta,Python;Verilog;ETL;gRPC;Signal Processing;Angular;Object Detection,Jenkins;Spring Boot;Go;Unit Testing,Banaras Hindu University,B.Tech Mech,0,5,8660422544,gaurav.mehta458@hotmail.com,BlueOrbit
+Meera Shukla,Angular;Ansible;C;Playwright;Signal Processing;Java;Go,CI/CD;Amplitude;PySpark,Banaras Hindu University,PhD CS,7,10,9985929251,meera.shukla776@yahoo.com,BoltSecure
+Kabir Joshi,Performance Tuning;Docker;MongoDB;Embedded Systems;CI/CD;gRPC,PyTorch;Signal Processing;MySQL;Blockchain;Kubernetes,NIT Warangal,B.Tech Civil,6,12,7084259852,kabir.joshi270@yahoo.com,BoltSecure
+Raghu Gupta,SaaS;Tableau;BDD,Game Dev;UI/UX,SRM University Chennai,B.Tech AIML,3,7,7680622139,raghu.gupta98@yahoo.com,Skyline Labs
+Rohan Singh,Distributed Systems;Python;Audio Processing,Selenium;Prompt Engineering;Product Analytics;Django,Aligarh Muslim University,B.Tech Civil,5,8,7517160496,rohan.singh83@hotmail.com,BlueOrbit
+Riya Trivedi,LangChain;Mixpanel;OpenCV;Game Dev;Object Detection;Kubernetes;Web3,Integration Testing;C;BDD;Playwright;Jenkins,BITS Pilani,B.Tech CSE,5,10,8878253955,riya.trivedi143@yahoo.com,CloudNova
+Dev Agarwal,Kubernetes;Redis;CloudFormation;MongoDB;Object Detection;TensorFlow,OpenCV;ElasticSearch;Figma;Express;Verilog,St. Xavier's College Mumbai,BCA,4,7,9570043260,dev.agarwal337@gmail.com,DataPulse Analytics
+Raghu Thakur,Azure;Excel Automation;Microservices;C++;Terraform;System Design,Payments;PyTorch,Chandigarh University,B.Tech Software,5,10,8486419444,raghu.thakur658@gmail.com,Jupiter Tech
+Varun Bhatt,Stream Processing;System Design;C,Test Automation;VHDL,IIIT Delhi,B.Tech ECE,5,11,9919152122,varun.bhatt650@hotmail.com,BoltSecure
+Ishita Chatterjee,Unit Testing;Kafka;Tableau;Rust;CI/CD;JavaScript,Matplotlib;Express;TypeScript;Next.js;Spark,IIIT Allahabad,M.Tech AI,8,14,9614690089,ishita.chatterjee112@gmail.com,ZenithSoft
+Gaurav Patel,Node.js;Airflow;Game Dev;Ansible;Pandas;Redis;Amplitude,Computer Graphics;Solidity;CI/CD;C++;GitHub Actions,Anna University,B.Tech AIML,0,1,6476252979,gaurav.patel537@hotmail.com,Skyline Labs
+Meera Rastogi,PySpark;Spring Boot;System Design;YOLO;VHDL;NumPy;Tableau,Playwright;MySQL;Integration Testing;UI/UX,IIIT Bengaluru,MCA,2,5,6304502990,meera.rastogi717@outlook.com,Meowww AI
+Pooja Verma,ETL;Power BI;Terraform;Smart Contracts;Rust;Hugging Face;Microservices,Seaborn;NumPy;TensorFlow,IIT Madras,B.Tech CSE,1,8,7592075963,pooja.verma401@outlook.com,InnoEdge Solutions
+Ananya Mehta,Redis;Next.js;Computer Graphics;Speech Recognition;Objective-C,Game Dev;Payments;Jenkins;Prompt Engineering;MATLAB,IIT Delhi,B.Tech ECE,4,7,8913939980,ananya.mehta596@outlook.com,Finovate Systems
+Pooja Ghosh,Mockito;Kafka;Redis,NumPy;TypeScript,Jadavpur University,B.Tech Civil,1,8,9958091770,pooja.ghosh53@yahoo.com,GammaCloud
+Meera Shukla,FastAPI;Event-Driven Architecture;Playwright;OAuth2;Distributed Systems;Audio Processing;Security,OpenAI API;Seaborn;MongoDB,IIT Bombay,B.Tech IT,1,2,9096442215,meera.shukla382@gmail.com,Matrix Dynamics
+Karan Iyer,Power BI;OpenCV;Computer Graphics;Rust;Plotly,OpenGL;YOLO,Banaras Hindu University,B.Tech Mech,3,9,8777760135,karan.iyer517@gmail.com,NeuroWorks
+Arjun Iyer,Next.js;Product Analytics;PostgreSQL,Figma;Excel Automation;Rust,SRM University Chennai,B.Tech CSE,4,4,6776475622,arjun.iyer376@yahoo.com,EverStream
+Riya Bhatia,Prompt Engineering;Unreal Engine;Tableau;AWS;A/B Testing;System Design;Java,Distributed Systems;Redis,Jadavpur University,B.Tech Mech,3,6,6762870907,riya.bhatia957@gmail.com,Nexusware
+Priya Sharma,Playwright;GraphQL;Vue.js;Game Dev;Tableau;FastAPI;Computer Vision,Security;Signal Processing,IIT Kanpur,B.Tech Mech,1,1,9855255342,priya.sharma76@gmail.com,Jupiter Tech
+Simran Patel,VHDL;Kotlin;ElasticSearch,OAuth2;GraphQL,IIT Bombay,B.Tech Data Science,1,4,6246640898,simran.patel137@yahoo.com,BoltSecure
+Neha Sharma,Java;AWS;Data Engineering,Unit Testing;Vue.js;Solr;JavaScript,VIT Vellore,BCA,5,9,9852848917,neha.sharma434@yahoo.com,Meowww AI
+Gaurav Agarwal,Figma;Edge Computing;OAuth2;Node.js;MongoDB,NumPy;Spring Boot,Amity University,M.Tech AI,6,11,8135860219,gaurav.agarwal926@hotmail.com,EverStream
+Priya Bhattacharya,Serverless;Robotic Process Automation (RPA);Airflow;Integration Testing;Deep Learning,Blockchain;Pandas;C;Playwright,Delhi University,B.Tech AIML,2,7,7856295074,priya.bhattacharya492@hotmail.com,BridgeTech
+Aditya Suri,Kotlin;Spring Boot;Solr,Microservices;Serverless;Node.js,IIIT Hyderabad,BCA,2,9,7460933195,aditya.suri308@gmail.com,Pulse9
+Ananya Iyer,C++;GraphQL;ElasticSearch;Spark;Express;Spring Boot,Airflow;Computer Vision;OpenGL,Aligarh Muslim University,B.Tech ECE,5,5,9239611907,ananya.iyer883@gmail.com,CloudNova
+Sneha Bhattacharya,Airflow;Deep Learning;Plotly;GraphQL;Accessibility;Serverless;NLP,JavaScript;Excel Automation;PyTorch;Keras,NIT Warangal,B.Tech Civil,8,11,9887709822,sneha.bhattacharya725@gmail.com,CortexAI
+Kabir Reddy,C++;Jenkins;NLP;AWS,Product Analytics;Azure;Performance Tuning;MySQL;OpenCV,IIT Roorkee,B.Sc CS,7,11,8141321811,kabir.reddy149@yahoo.com,KiteWorks
+Ishita Pandey,Spark;Distributed Systems;Figma;gRPC;LangChain;Power BI;OpenAI API,Unreal Engine;Retrieval-Augmented Generation (RAG);MySQL,Christ University Bangalore,B.Tech ECE,0,0,8993721489,ishita.pandey483@gmail.com,Sage Analytics
+Gaurav Chopra,Edge Computing;Signal Processing;3D Modelling;Azure;Mixpanel;React;Mockito,TypeScript;Django;LLM Fine-tuning,IIT Bombay,PhD CS,2,4,7549877615,gaurav.chopra261@yahoo.com,CloudNova
+Zoya Sinha,SQL;Amplitude;GitHub Actions;Objective-C;C;Figma;TDD,ElasticSearch;AWS;GCP,IIIT Delhi,MBA Technology,1,1,9219346846,zoya.sinha591@gmail.com,Iota Labs
+Dev Iyer,Computer Graphics;Python;Microservices;Mockito;Flask;Web3,Power BI;Deep Learning,BITS Pilani,BCA,6,11,6581163651,dev.iyer368@outlook.com,LumenSoft
+Nidhi Agarwal,Figma;NLP;GCP;Edge Computing,Mockito;LLM Fine-tuning;Seaborn;Vue.js;System Design,NIT Surathkal,B.Sc CS,1,2,7672029970,nidhi.agarwal466@yahoo.com,ZenithSoft
+Varun Gupta,Kubernetes;GCP;Spring Boot;Unreal Engine;NumPy;C++;SaaS,Speech Recognition;Ansible,St. Xavier's College Mumbai,M.Tech Data Science,3,4,7898523808,varun.gupta550@gmail.com,Helix Systems
+Riya Joshi,Integration Testing;React;PyTorch;Data Engineering;TypeScript,Computer Graphics;NumPy;Object Detection;Computer Vision,Christ University Bangalore,M.Tech Data Science,6,7,8720822540,riya.joshi521@yahoo.com,KiteWorks
+Kunal Agarwal,UI/UX;YOLO;Payments;SaaS,Data Engineering;Mockito;ElasticSearch;Kafka;Robotic Process Automation (RPA),BITS Pilani,PhD CS,1,5,9936930341,kunal.agarwal153@gmail.com,Helix Systems
+Meera Mehta,ElasticSearch;Pandas;Prompt Engineering;VHDL,TypeScript;Rust;Data Engineering;Spark;TensorFlow,IIT Delhi,B.Tech ECE,7,9,9977787065,meera.mehta683@hotmail.com,EverStream
+Simran Trivedi,JavaScript;Playwright;Express;Solr;C;Security,Edge Computing;Ansible;CloudFormation,Amity University,B.Sc CS,4,9,7107334137,simran.trivedi194@hotmail.com,CloudNova
+Aditya Trivedi,Performance Tuning;Azure;Excel Automation;Next.js,TypeScript;Spark,NIT Trichy,M.Tech AI,5,5,8043215143,aditya.trivedi757@hotmail.com,DataPulse Analytics
+Raghu Sharma,Figma;Mixpanel;Stream Processing;JavaScript;Solr;Next.js,UI/UX;Plotly;VHDL;Seaborn,IIIT Hyderabad,PhD CS,5,7,7247807235,raghu.sharma684@hotmail.com,Jupiter Tech
+Rohan Rastogi,Spring Boot;Kafka;YOLO;Game Dev;Python;Data Engineering,FastAPI;MATLAB,Amity University,B.Tech Software,5,11,8504056026,rohan.rastogi167@outlook.com,KiteWorks
+Simran Gupta,TDD;Scikit-learn;HuggingFace Transformers;LLM Fine-tuning;Hadoop;Keras;MATLAB,C++;Ansible;Speech Synthesis;Edge Computing;Tableau,Lovely Professional University,BCA,0,3,6073915353,simran.gupta3@outlook.com,BlueOrbit
+Raghu Suri,Serverless;Test Automation;BDD,GitHub Actions;Swift;MongoDB,IIT Kanpur,B.Tech Civil,8,11,7432676300,raghu.suri713@hotmail.com,Rivernode
+Priya Bhatia,GraphQL;Plotly;Rust;React,CloudFormation;Mockito,Banaras Hindu University,M.Tech Data Science,3,5,8963496498,priya.bhatia226@hotmail.com,Astra Robotics
+Priya Shukla,Integration Testing;Playwright;Deep Learning;SQL,MySQL;NumPy,Lovely Professional University,B.Tech Software,4,7,8346339305,priya.shukla405@gmail.com,Matrix Dynamics
+Nidhi Bose,GitHub Actions;Retrieval-Augmented Generation (RAG);Computer Vision;Verilog;Reinforcement Learning,Hadoop;SaaS;Speech Recognition;Microservices;Pandas,St. Xavier's College Mumbai,Integrated M.Sc CS,0,4,9321682163,nidhi.bose528@hotmail.com,CloudNova
+Raghu Sharma,ElasticSearch;Airflow;Vue.js,BDD;Spring Boot;JavaScript,NIT Warangal,MCA,5,12,9477759529,raghu.sharma719@yahoo.com,Pulse9
+Rohan Rastogi,Next.js;Node.js;Spark;NLP;Speech Synthesis;Keras,Jenkins;Blockchain;Unreal Engine;NumPy;Event-Driven Architecture,IIT Bombay,B.Tech ECE,4,10,7200891054,rohan.rastogi793@gmail.com,QuantumByte
+Dev Sinha,Spark;OpenCV;Docker;Terraform;Audio Processing;Solr,IoT;TensorFlow,BITS Pilani,BCA,1,8,7809637806,dev.sinha614@gmail.com,Helix Systems
+Rohan Singh,Speech Synthesis;Web3;Embedded Systems;Payments;Microservices,LangChain;Matplotlib,IIT Roorkee,B.Tech CSE,7,9,6697299461,rohan.singh550@yahoo.com,Meowww AI
+Ananya Nair,Scikit-learn;Seaborn;Verilog;IoT,Audio Processing;Object Detection;Express,Amity University,B.Tech Software,2,9,7897624418,ananya.nair980@outlook.com,Finovate Systems
+Nidhi Sinha,Smart Contracts;A/B Testing;Swift,TDD;Figma;Vue.js,Manipal University Jaipur,B.Sc CS,4,8,7774367015,nidhi.sinha462@gmail.com,GammaCloud
+Nidhi Bose,Jenkins;Ansible;Game Dev;BDD,Retrieval-Augmented Generation (RAG);Speech Synthesis;VHDL;ElasticSearch,IIIT Delhi,PhD CS,0,6,8107441195,nidhi.bose848@outlook.com,CortexAI
+Ishan Chopra,3D Modelling;Solidity;System Design;Distributed Systems;Deep Learning,Express;Game Dev;GitHub Actions;Django,SRM University Chennai,B.Sc CS,8,9,7260876783,ishan.chopra875@hotmail.com,Iota Labs
+Maya Bhatt,Product Analytics;CloudFormation;Blockchain;Unreal Engine,UI/UX;MongoDB;OpenCV;Vue.js;Matplotlib,SRM University Chennai,B.Tech Data Science,0,5,9769393148,maya.bhatt979@hotmail.com,BridgeTech
+Zoya Kapoor,Serverless;Airflow;Prompt Engineering;React;OpenCV;TensorFlow,FastAPI;Event-Driven Architecture;GraphQL;Express,Jamia Millia Islamia,BCA,3,6,9217195059,zoya.kapoor418@outlook.com,Nexusware
+Varun Singh,Integration Testing;Figma;System Design;Amplitude;JavaScript,OpenCV;Solidity,NIT Trichy,MBA Technology,8,10,9780694210,varun.singh617@hotmail.com,ZenithSoft
+Kunal Sinha,CloudFormation;Swift;Prompt Engineering;IoT,Spring Boot;Objective-C,SRM University Chennai,B.Tech Mech,3,7,7442516058,kunal.sinha601@outlook.com,Orchid Digital
+Priya Chopra,OAuth2;Docker;Hugging Face;IoT;Scikit-learn;Signal Processing,Seaborn;Rust;OpenAI API,IIT Kharagpur,B.Tech Civil,3,5,7441279088,priya.chopra553@outlook.com,Flux Innovations
+Arjun Chopra,BDD;Solidity;Event-Driven Architecture;CloudFormation;Swift,Speech Recognition;Computer Vision;Unreal Engine;Express,St. Xavier's College Mumbai,B.Tech CSE,6,7,8866824693,arjun.chopra471@gmail.com,Iota Labs
+Aarav Bhattacharya,ElasticSearch;Computer Graphics;C,gRPC;Terraform;Smart Contracts;TypeScript,IIT Madras,MCA,2,6,6261524347,aarav.bhattacharya479@gmail.com,CloudNova
+Sara Iyer,Performance Tuning;Django;Python;REST APIs;Mockito;Node.js;Mixpanel,Serverless;Kotlin;C++;TypeScript,SRM University Chennai,B.Tech Mech,5,12,7966248869,sara.iyer496@yahoo.com,DataPulse Analytics
+Arnav Pandey,Audio Processing;Hadoop;Computer Graphics;Power BI;Stream Processing;Computer Vision;Mockito,Jenkins;PyTorch;AWS;gRPC;Angular,Manipal University Jaipur,B.Tech AIML,5,5,7962311330,arnav.pandey74@gmail.com,Pulse9
+Kunal Suri,YOLO;Hugging Face;Express,PostgreSQL;TensorFlow,VIT Vellore,B.Tech Civil,4,9,8481099981,kunal.suri682@gmail.com,Jupiter Tech
+Ishita Patel,PostgreSQL;LLM Fine-tuning;Excel Automation;Robotic Process Automation (RPA);Hadoop;Jenkins;Security,Docker;LangChain;Product Analytics,IIIT Delhi,B.Tech Data Science,4,9,6796137398,ishita.patel375@yahoo.com,Helix Systems
+Zoya Thakur,NumPy;FastAPI;MySQL,Computer Vision;Python,Lovely Professional University,B.Sc CS,0,3,7494154424,zoya.thakur982@outlook.com,DataPulse Analytics
+Pooja Rastogi,Prompt Engineering;Amplitude;Speech Recognition;IoT;HuggingFace Transformers;MATLAB;Hadoop,Blockchain;SaaS;MySQL,Banaras Hindu University,B.Tech Civil,1,3,9507866277,pooja.rastogi630@gmail.com,Flux Innovations
+Meera Sharma,ElasticSearch;gRPC;Flask;Product Analytics;SQL;Performance Tuning,OpenAI API;Jenkins;A/B Testing,IISc Bangalore,MCA,4,4,6342702675,meera.sharma759@hotmail.com,NeuroWorks
+Sneha Bose,Distributed Systems;Flask;GCP;IoT;Solidity;A/B Testing,JavaScript;AWS,St. Xavier's College Mumbai,B.Tech Civil,7,9,9377451471,sneha.bose870@gmail.com,Skyline Labs
+Arnav Bhatt,GraphQL;VHDL;Selenium,Angular;OpenAI API;Go;BDD;Amplitude,IIT Kharagpur,BCA,5,8,9534851008,arnav.bhatt308@yahoo.com,CortexAI
+Meera Iyer,Playwright;Deep Learning;Prompt Engineering,Python;FastAPI,Christ University Bangalore,B.Tech Data Science,4,5,6530443805,meera.iyer674@outlook.com,Skyline Labs
+Meera Sinha,OpenAI API;Computer Graphics;Pandas;Docker;UI/UX;OpenCV,Kafka;Redis;Deep Learning,IIT Madras,B.Tech ECE,4,4,7438978370,meera.sinha590@outlook.com,BlueOrbit
+Kabir Singh,PySpark;Ansible;SaaS;Computer Vision;Go;NLP;Security,Stream Processing;Unity,Manipal University Jaipur,B.Tech Data Science,3,4,7296641590,kabir.singh313@gmail.com,InnoEdge Solutions
+Tanya Suri,Azure;HuggingFace Transformers;Solr;Spring Boot;Kotlin,Airflow;Solidity,IIT Kharagpur,MCA,3,8,7770794955,tanya.suri848@yahoo.com,DataPulse Analytics
+Rohan Kapoor,Kubernetes;Computer Vision;React;GraphQL;Event-Driven Architecture;Product Analytics,C;Retrieval-Augmented Generation (RAG);Tableau;NumPy,Delhi University,B.Tech AIML,5,5,9585520857,rohan.kapoor114@yahoo.com,Rivernode
+Meera Reddy,Go;Embedded Systems;Object Detection;Keras;Plotly;Product Analytics;VHDL,Edge Computing;PySpark;Accessibility;REST APIs;Serverless,Jamia Millia Islamia,B.Tech Software,3,3,9662137642,meera.reddy702@gmail.com,Astra Robotics
+Sneha Mehta,MySQL;Swift;Docker,MATLAB;Express;Computer Graphics;Java;Python,NIT Warangal,B.Tech Data Science,2,8,7913428584,sneha.mehta6@hotmail.com,Meowww AI
+Gaurav Bhatia,Keras;Kotlin;Audio Processing,Computer Graphics;Pandas;YOLO,Amity University,Integrated M.Sc CS,1,7,7751590046,gaurav.bhatia138@hotmail.com,DeltaStack
+Raghu Singh,Retrieval-Augmented Generation (RAG);TDD;Blockchain;MongoDB;PostgreSQL;Performance Tuning,Go;Angular;CloudFormation;Integration Testing;ETL,IIT Kanpur,B.Tech AIML,2,4,7863993032,raghu.singh202@yahoo.com,Sage Analytics
+Riya Pandey,GCP;Retrieval-Augmented Generation (RAG);VHDL;Redis;OpenCV;ElasticSearch;Jenkins,PySpark;Pandas;JavaScript;Computer Vision,IIIT Hyderabad,B.Tech Data Science,8,11,6106443557,riya.pandey550@yahoo.com,KiteWorks
+Karan Verma,YOLO;HuggingFace Transformers;Audio Processing;Pandas;Object Detection;ElasticSearch;PyTorch,Azure;3D Modelling;Blockchain;Kafka;Deep Learning,NIT Surathkal,B.Tech Mech,4,10,6623627781,karan.verma282@outlook.com,Skyline Labs
+Gaurav Iyer,Accessibility;MATLAB;Express;Object Detection;Terraform;Java;CI/CD,Kotlin;Unity,Lovely Professional University,BCA,6,12,7444442403,gaurav.iyer365@gmail.com,EverStream
+Karan Suri,PyTorch;C++;LLM Fine-tuning;GitHub Actions;Objective-C;Deep Learning,NumPy;Robotic Process Automation (RPA);Selenium;Terraform,Manipal University Jaipur,PhD CS,0,2,6980938867,karan.suri94@outlook.com,DataPulse Analytics
+Tanya Agarwal,Speech Synthesis;Seaborn;Ansible;Kotlin;Matplotlib;MySQL,Figma;Java,Anna University,B.Tech Mech,2,2,7930386049,tanya.agarwal368@yahoo.com,DataPulse Analytics
+Meera Mehta,CloudFormation;Deep Learning;Matplotlib;OpenAI API,Vue.js;Terraform;IoT;NumPy,IIIT Bengaluru,B.Tech Software,8,9,6110390267,meera.mehta716@yahoo.com,Flux Innovations
+Simran Bhatt,Node.js;Speech Recognition;Mixpanel;C;Flask;Unit Testing;MATLAB,Hadoop;GitHub Actions;MongoDB;Kotlin,BITS Pilani,MCA,7,9,7421669437,simran.bhatt985@yahoo.com,NeuroWorks
+Meera Verma,Spark;Unit Testing;OpenGL,Payments;Distributed Systems;Kotlin;Computer Graphics;LangChain,IIT Madras,B.Tech Data Science,0,1,9133113567,meera.verma701@outlook.com,Sage Analytics
+Sara Shukla,Scikit-learn;Matplotlib;Security;PostgreSQL;Solr;Kotlin;Flask,TypeScript;Unity;Django,Banaras Hindu University,Integrated M.Sc CS,2,6,9852649187,sara.shukla558@outlook.com,Orchid Digital
+Karan Agarwal,FastAPI;Security;LangChain,Kotlin;System Design;Edge Computing;CI/CD,Jamia Millia Islamia,B.Sc CS,1,2,7044832972,karan.agarwal447@gmail.com,GammaCloud
+Sneha Ghosh,Ansible;IoT;Blockchain;Excel Automation;Scikit-learn;Plotly,SQL;Flask;Performance Tuning;Stream Processing,Delhi University,B.Tech Data Science,8,10,6948175360,sneha.ghosh945@outlook.com,Jupiter Tech
+Gaurav Shukla,Go;Performance Tuning;Excel Automation;Kafka,Deep Learning;IoT;Serverless,St. Xavier's College Mumbai,B.Tech Mech,4,4,6842147042,gaurav.shukla695@yahoo.com,Meowww AI
+Karan Bhatia,TypeScript;Game Dev;NumPy;HuggingFace Transformers;Rust;Keras;Flask,Matplotlib;LLM Fine-tuning,NIT Surathkal,B.Tech IT,6,9,7328005957,karan.bhatia643@yahoo.com,BridgeTech
+Arjun Patel,Speech Recognition;Terraform;PyTorch;Amplitude,OpenCV;ElasticSearch;Performance Tuning;IoT,NIT Surathkal,B.Tech ECE,5,11,6169268844,arjun.patel523@outlook.com,DeltaStack
+Rohan Trivedi,Plotly;Spark;Pandas;PySpark;Kotlin,Kafka;CI/CD;GraphQL,Aligarh Muslim University,B.Tech ECE,6,8,7879615493,rohan.trivedi769@outlook.com,Astra Robotics
+Riya Suri,Angular;Retrieval-Augmented Generation (RAG);PostgreSQL;GitHub Actions;IoT;Verilog,Pandas;OpenGL,IIIT Allahabad,BCA,7,13,6458430615,riya.suri784@yahoo.com,Quark Labs
+Sneha Agarwal,Jenkins;ETL;TDD;Distributed Systems;Go;Signal Processing,Selenium;NumPy;Unity,Lovely Professional University,MCA,8,15,7516443175,sneha.agarwal41@outlook.com,Pulse9
+Dev Gupta,Kotlin;NLP;Excel Automation;Azure,Solr;Spark;Scikit-learn,Jamia Millia Islamia,B.Tech IT,4,4,9671216537,dev.gupta189@hotmail.com,Astra Robotics
+Maya Trivedi,Seaborn;Web3;Tableau;Pandas;TypeScript;Payments;Hugging Face,System Design;Security;Smart Contracts,NIT Trichy,B.Sc CS,3,8,8485403701,maya.trivedi641@hotmail.com,LumenSoft
+Meera Nair,Verilog;Hadoop;Web3;Security;NLP;Scikit-learn,CI/CD;HuggingFace Transformers;C++,BITS Pilani,M.Tech AI,0,3,8326363652,meera.nair862@outlook.com,QuantumByte
+Sara Verma,Django;GCP;Selenium;GraphQL;NumPy;Mixpanel,A/B Testing;Airflow;Unreal Engine,Jamia Millia Islamia,B.Tech ECE,2,9,9650562828,sara.verma741@hotmail.com,Matrix Dynamics
+Tanya Sharma,Computer Vision;Scikit-learn;Django;MongoDB,Selenium;UI/UX;Computer Graphics;Excel Automation,IIT Madras,M.Tech Data Science,0,1,9471956311,tanya.sharma236@gmail.com,BlueOrbit
+Pooja Bhatia,Plotly;MongoDB;FastAPI;AWS,VHDL;Vue.js;Distributed Systems;TDD;OpenCV,Banaras Hindu University,MCA,1,5,7353745076,pooja.bhatia960@hotmail.com,DataPulse Analytics
+Tanya Verma,Next.js;Prompt Engineering;Data Engineering;AWS,Unit Testing;Amplitude,Anna University,B.Sc CS,0,7,8693446137,tanya.verma472@hotmail.com,Quark Labs
+Arnav Verma,Signal Processing;Deep Learning;Mixpanel;Stream Processing,Object Detection;NumPy;Edge Computing;A/B Testing,Amity University,M.Tech Data Science,7,14,7702839753,arnav.verma356@outlook.com,LumenSoft
+Meera Das,Integration Testing;Express;BDD;Angular;JavaScript,Azure;Objective-C,NIT Trichy,BCA,2,8,6350302595,meera.das799@hotmail.com,Finovate Systems
+Liya Bose,Event-Driven Architecture;Docker;Excel Automation,REST APIs;Security,Jamia Millia Islamia,B.Tech IT,2,3,9315305921,liya.bose304@yahoo.com,CortexAI
+Rahul Nair,Payments;Microservices;PostgreSQL;TDD;AWS;Reinforcement Learning;Seaborn,NLP;Computer Graphics;Keras,Aligarh Muslim University,BCA,0,3,7067308233,rahul.nair198@gmail.com,CortexAI
+Vikram Sharma,Kubernetes;Terraform;TypeScript;REST APIs;SaaS;Serverless,FastAPI;Java,NIT Warangal,B.Tech Software,5,6,9026599379,vikram.sharma94@gmail.com,CortexAI
+Liya Bose,PyTorch;Product Analytics;Signal Processing;Kafka;React;ElasticSearch,HuggingFace Transformers;Distributed Systems;TypeScript,IIIT Delhi,B.Tech Civil,7,11,8870553111,liya.bose954@gmail.com,Jupiter Tech
+Ishan Ghosh,Game Dev;Airflow;OAuth2;Express;Test Automation,Kotlin;MATLAB;Solr;Speech Synthesis,Lovely Professional University,B.Tech Mech,6,12,6143334337,ishan.ghosh991@hotmail.com,Pulse9
+Rohan Joshi,Docker;Swift;Game Dev;GitHub Actions,Microservices;AWS,Banaras Hindu University,Integrated M.Sc CS,1,2,8786446741,rohan.joshi18@yahoo.com,BlueOrbit
+Simran Chatterjee,C;AWS;Python;PySpark,3D Modelling;Web3;Solr;Excel Automation,Amity University,MCA,6,8,7430708310,simran.chatterjee24@hotmail.com,LumenSoft
+Priya Bhattacharya,OpenAI API;LLM Fine-tuning;ETL;React,GraphQL;TypeScript;Unreal Engine;FastAPI;Distributed Systems,IIT Kanpur,MBA Technology,4,4,9601091059,priya.bhattacharya560@gmail.com,LumenSoft
+Kunal Thakur,Express;Spring Boot;Figma;Hadoop;Objective-C;PySpark,Python;C,Pune University,B.Tech IT,5,12,9050765506,kunal.thakur679@gmail.com,QuantumByte
+Gaurav Sharma,Node.js;Next.js;Solr;Deep Learning;Go;Plotly;Computer Graphics,Retrieval-Augmented Generation (RAG);Signal Processing,St. Xavier's College Mumbai,B.Sc CS,6,11,6753503497,gaurav.sharma424@yahoo.com,KiteWorks
+Vikram Iyer,CI/CD;Scikit-learn;Payments;Edge Computing;Kafka;Seaborn;Audio Processing,SaaS;OpenAI API;Kubernetes,Chandigarh University,B.Tech Civil,2,9,8697622177,vikram.iyer366@outlook.com,Helix Systems
+Arjun Malhotra,Hadoop;GCP;Product Analytics,Speech Synthesis;Prompt Engineering;Docker;Redis;Jenkins,IIT Delhi,M.Tech AI,1,5,8109402909,arjun.malhotra634@hotmail.com,QuantumByte
+Varun Mehta,Security;Kafka;Keras,MySQL;Test Automation,NIT Warangal,M.Tech Data Science,5,8,8354042397,varun.mehta513@yahoo.com,Helix Systems
+Ananya Shukla,System Design;CI/CD;Serverless;Computer Graphics;Embedded Systems;OAuth2;Solidity,Data Engineering;Azure,Pune University,PhD CS,2,7,8558255954,ananya.shukla444@yahoo.com,CortexAI
+Nidhi Khan,GCP;Tableau;Go;C;Unit Testing;Solidity;OAuth2,Seaborn;CloudFormation;OpenGL;Kotlin;GitHub Actions,VIT Vellore,B.Sc CS,0,5,8265960221,nidhi.khan965@yahoo.com,Skyline Labs
+Aarav Rastogi,CI/CD;TDD;OpenAI API;Rust;Distributed Systems,OpenGL;Python;Go,NIT Surathkal,MCA,8,13,8395567425,aarav.rastogi392@hotmail.com,Astra Robotics
+Kabir Sinha,Docker;Playwright;Plotly;TensorFlow,Unreal Engine;Embedded Systems,Aligarh Muslim University,B.Sc CS,4,8,6161519522,kabir.sinha852@yahoo.com,Skyline Labs
+Arjun Pandey,LLM Fine-tuning;Vue.js;Robotic Process Automation (RPA);Audio Processing;ETL,BDD;Angular;Unreal Engine;Performance Tuning,SRM University Chennai,MBA Technology,2,3,7357506803,arjun.pandey432@hotmail.com,KiteWorks
+Riya Sinha,Computer Vision;Excel Automation;Ansible;Keras;SQL;Spark,LangChain;Flask;Solidity;Scikit-learn;AWS,Jadavpur University,MCA,3,7,9748059818,riya.sinha87@gmail.com,BlueOrbit
+Neha Agarwal,C;MongoDB;Event-Driven Architecture,JavaScript;Serverless;3D Modelling;Spark;Security,IIT Roorkee,B.Sc CS,2,7,8339060762,neha.agarwal200@gmail.com,KiteWorks
+Neha Iyer,Java;C;Playwright;TDD;Swift;OpenGL,UI/UX;Unity;Next.js;Django,NIT Surathkal,B.Tech AIML,0,5,6520602399,neha.iyer969@gmail.com,ZenithSoft
+Aditya Bhatt,Serverless;PostgreSQL;C;Web3,VHDL;Objective-C;Blockchain;ElasticSearch;System Design,Jadavpur University,B.Tech ECE,2,8,8757669632,aditya.bhatt252@hotmail.com,Quark Labs
+Aditya Nair,Hadoop;Playwright;OAuth2;C++;Spring Boot;TypeScript;Signal Processing,Unit Testing;LangChain;OpenAI API;3D Modelling;PostgreSQL,Banaras Hindu University,B.Tech Software,0,0,8961152476,aditya.nair754@outlook.com,Meowww AI
+Ishan Sinha,SQL;VHDL;LLM Fine-tuning;Object Detection;Retrieval-Augmented Generation (RAG),Accessibility;Pandas;Robotic Process Automation (RPA);Security,VIT Vellore,B.Tech Software,4,9,7208601001,ishan.sinha964@hotmail.com,Quark Labs
+Sneha Singh,Redis;Game Dev;Flask,Next.js;AWS,IIIT Hyderabad,Integrated M.Sc CS,5,12,7432487351,sneha.singh751@yahoo.com,Astra Robotics
+Rohan Kapoor,Unreal Engine;React;Stream Processing,Rust;Spark,SRM University Chennai,B.Tech Civil,5,9,6855384079,rohan.kapoor430@yahoo.com,KiteWorks
+Ananya Sinha,Pandas;SQL;Hugging Face;PostgreSQL;JavaScript;Swift;3D Modelling,Power BI;NLP;OpenCV;LLM Fine-tuning;Vue.js,Delhi University,MCA,3,6,7082523332,ananya.sinha960@gmail.com,Iota Labs
+Zoya Iyer,Event-Driven Architecture;Object Detection;Payments;React,Django;Rust,IIIT Bengaluru,B.Tech Mech,0,0,7054751884,zoya.iyer970@yahoo.com,DeltaStack
+Rohan Nair,UI/UX;React;Speech Synthesis;Java,Verilog;Kubernetes;Computer Vision;GraphQL,IIT Bombay,B.Tech AIML,7,10,8116136196,rohan.nair323@yahoo.com,QuantumByte
+Zoya Malhotra,Computer Graphics;Spring Boot;REST APIs;Next.js,Event-Driven Architecture;Computer Vision,Anna University,B.Tech IT,5,6,9229803151,zoya.malhotra633@gmail.com,QuantumByte
+Sneha Iyer,CI/CD;Flask;BDD;ElasticSearch;Keras,Stream Processing;UI/UX;SQL;GCP,BITS Pilani,B.Tech AIML,1,3,9029149307,sneha.iyer853@yahoo.com,KiteWorks
+Zoya Shukla,Seaborn;Edge Computing;Integration Testing;gRPC;Swift;Python;OAuth2,Verilog;AWS;VHDL;OpenCV,Lovely Professional University,Integrated M.Sc CS,6,13,7763215464,zoya.shukla824@hotmail.com,Jupiter Tech
+Meera Rastogi,A/B Testing;Serverless;Speech Recognition;Spark,TDD;Go;gRPC,NIT Warangal,B.Tech Civil,7,8,8784079661,meera.rastogi939@outlook.com,Finovate Systems
+Ananya Joshi,IoT;Embedded Systems;FastAPI;Accessibility;Unreal Engine;Figma;3D Modelling,SQL;C;Computer Graphics;UI/UX;Blockchain,Anna University,M.Tech AI,1,4,9768988403,ananya.joshi533@outlook.com,CortexAI
+Priya Sinha,Test Automation;Swift;Terraform;Objective-C;Object Detection,Matplotlib;Web3;Node.js;Spring Boot,NIT Surathkal,PhD CS,6,10,9906881849,priya.sinha530@yahoo.com,Rivernode
+Riya Reddy,Power BI;VHDL;Kafka;TensorFlow;A/B Testing,IoT;Next.js;Speech Recognition,NIT Warangal,B.Tech IT,8,11,9837270976,riya.reddy304@outlook.com,Sage Analytics
+Rahul Suri,Vue.js;Solr;Security;Hadoop;GraphQL;Prompt Engineering;PySpark,YOLO;Power BI;Amplitude,IIIT Hyderabad,B.Tech ECE,1,7,7879291615,rahul.suri506@outlook.com,Jupiter Tech
+Aditya Reddy,C++;Embedded Systems;Spring Boot;NLP;GitHub Actions,Selenium;Pandas;Go;Solidity,Lovely Professional University,B.Tech Software,8,10,8905471799,aditya.reddy750@yahoo.com,Quark Labs
+Sara Bhatt,Airflow;PySpark;Reinforcement Learning;Django;Java;Spring Boot;LLM Fine-tuning,Redis;CI/CD;Power BI;VHDL;Unreal Engine,Amity University,PhD CS,1,2,8095463631,sara.bhatt228@yahoo.com,Sage Analytics
+Maya Sharma,Speech Recognition;Angular;Django,PySpark;Embedded Systems;Matplotlib,IIIT Delhi,B.Tech Data Science,1,3,6343606599,maya.sharma297@hotmail.com,Pulse9
+Arnav Reddy,Terraform;Hadoop;Reinforcement Learning,Prompt Engineering;Computer Vision;SQL;Data Engineering,IIT Bombay,B.Tech Software,3,7,9829665505,arnav.reddy372@hotmail.com,CortexAI
+Ananya Thakur,Unreal Engine;Java;OpenAI API;ElasticSearch;Mixpanel;HuggingFace Transformers,React;Product Analytics;MongoDB,IIT Kharagpur,B.Tech Data Science,6,13,9721400774,ananya.thakur294@gmail.com,Pulse9
+Pooja Suri,OpenGL;IoT;Web3;Speech Synthesis;VHDL,Smart Contracts;C++,NIT Trichy,B.Tech CSE,4,5,7591288001,pooja.suri924@yahoo.com,NeuroWorks
+Ishita Iyer,PyTorch;OpenCV;gRPC;Robotic Process Automation (RPA);Swift;ETL;YOLO,Vue.js;Playwright;Event-Driven Architecture,Delhi University,Integrated M.Sc CS,1,8,7784063482,ishita.iyer31@yahoo.com,Orchid Digital
+Ishita Suri,Unity;Spring Boot;Product Analytics;MongoDB;MySQL,Web3;Deep Learning;Amplitude,NIT Surathkal,B.Tech IT,1,8,8993630967,ishita.suri639@gmail.com,LumenSoft
+Karan Khan,GCP;Node.js;UI/UX,PyTorch;Blockchain;Web3;Playwright;Performance Tuning,IIIT Allahabad,M.Tech AI,1,4,8718593797,karan.khan278@gmail.com,DataPulse Analytics
+Maya Das,Ansible;Signal Processing;NLP;OAuth2;Objective-C;Mockito,Deep Learning;OpenCV,Banaras Hindu University,B.Tech Mech,1,1,6480653705,maya.das858@outlook.com,DataPulse Analytics
+Rahul Trivedi,Python;Docker;Java,Verilog;Airflow,IIIT Allahabad,B.Tech IT,2,7,8460355258,rahul.trivedi654@hotmail.com,BridgeTech
+Maya Pandey,Keras;PyTorch;Amplitude,Edge Computing;Plotly;C++;GitHub Actions;Rust,BITS Pilani,MCA,7,8,6007154907,maya.pandey635@hotmail.com,LumenSoft
+Simran Thakur,Spark;Docker;ElasticSearch,Signal Processing;Angular;SaaS,NIT Warangal,Integrated M.Sc CS,0,4,8584532522,simran.thakur708@yahoo.com,DataPulse Analytics
+Kunal Sharma,Playwright;MATLAB;Node.js;Solidity;Edge Computing,Mockito;MongoDB;Azure;Kubernetes,IIT Bombay,M.Tech Data Science,7,11,9880984858,kunal.sharma529@yahoo.com,Quark Labs
+Riya Bhatt,ElasticSearch;Game Dev;Edge Computing;Matplotlib,Mockito;Solidity;Object Detection;Unreal Engine;Kubernetes,Aligarh Muslim University,B.Sc CS,2,2,8468938177,riya.bhatt82@outlook.com,NeuroWorks
+Nidhi Chopra,Solr;GCP;Reinforcement Learning,PostgreSQL;Scikit-learn,VIT Vellore,M.Tech AI,2,8,8887636235,nidhi.chopra911@yahoo.com,CloudNova
+Karan Ghosh,Unit Testing;Docker;OpenAI API;Kotlin,Hugging Face;NLP;Solr;C,Delhi University,M.Tech AI,0,4,8350897948,karan.ghosh106@gmail.com,CortexAI
+Meera Saxena,Selenium;Product Analytics;Event-Driven Architecture;OpenAI API;Serverless;Solr;Distributed Systems,Keras;GCP;Integration Testing;Scikit-learn;Hugging Face,Delhi University,B.Tech ECE,3,5,6463240371,meera.saxena544@hotmail.com,CortexAI
+Rohan Trivedi,Web3;MySQL;Speech Recognition;Seaborn;LangChain;Serverless;Signal Processing,YOLO;Selenium;Event-Driven Architecture;Embedded Systems,IIIT Hyderabad,MBA Technology,6,13,7563470976,rohan.trivedi905@yahoo.com,Rivernode
+Riya Khan,Angular;Airflow;gRPC;Kotlin;Payments,MATLAB;Deep Learning,IISc Bangalore,B.Tech IT,2,5,7915768829,riya.khan826@yahoo.com,Rivernode
+Karan Gupta,Kafka;Speech Recognition;ElasticSearch;Vue.js;Event-Driven Architecture;Spring Boot,Spark;Amplitude,IIT Delhi,B.Tech IT,2,6,9879544571,karan.gupta912@hotmail.com,DataPulse Analytics
+Pooja Khan,Mixpanel;Object Detection;Retrieval-Augmented Generation (RAG),Tableau;Express;OpenAI API,IIT Madras,B.Tech ECE,6,6,6274691169,pooja.khan534@yahoo.com,Nexusware
+Rohan Verma,Spark;Computer Vision;Plotly;GraphQL;LangChain;TypeScript,NLP;YOLO;Game Dev;HuggingFace Transformers,SRM University Chennai,B.Tech IT,8,9,9661092369,rohan.verma883@hotmail.com,CloudNova
+Meera Gupta,CloudFormation;Speech Synthesis;PyTorch;Security;Edge Computing;Deep Learning,OpenGL;CI/CD;Test Automation;Unreal Engine;Scikit-learn,Lovely Professional University,MCA,2,2,9046233624,meera.gupta558@yahoo.com,Finovate Systems
+Kabir Joshi,TypeScript;Airflow;Distributed Systems;Azure;Selenium,Angular;Figma;Go,IIIT Bengaluru,B.Tech IT,6,13,9347575906,kabir.joshi199@outlook.com,Meowww AI
+Arjun Khan,SaaS;Signal Processing;Keras,Serverless;HuggingFace Transformers;Amplitude;Hadoop;Speech Synthesis,Lovely Professional University,B.Tech Data Science,1,5,8669891785,arjun.khan931@hotmail.com,Orchid Digital
+Ananya Saxena,3D Modelling;FastAPI;Power BI;Docker;CI/CD,Amplitude;Prompt Engineering;Solidity,IIT Madras,B.Tech ECE,0,4,7593074593,ananya.saxena621@hotmail.com,DeltaStack
+Arnav Patel,Robotic Process Automation (RPA);Pandas;Kubernetes;Unit Testing;Hugging Face;Angular;Airflow,IoT;MongoDB;CI/CD;OpenAI API;Java,IIT Delhi,BCA,0,6,6986751423,arnav.patel394@hotmail.com,KiteWorks
+Karan Agarwal,BDD;A/B Testing;Mockito;Swift,Scikit-learn;AWS;Unity;Terraform;OpenCV,Lovely Professional University,BCA,4,11,6831771982,karan.agarwal428@yahoo.com,Finovate Systems
+Neha Chatterjee,IoT;gRPC;Flask;NumPy,Scikit-learn;Seaborn;Java;Kubernetes;Power BI,IIIT Bengaluru,BCA,7,7,8602080780,neha.chatterjee834@hotmail.com,Matrix Dynamics
+Zoya Thakur,AWS;Next.js;GCP;Solidity,Blockchain;Swift;Integration Testing,IIIT Delhi,B.Tech Software,8,12,7190255908,zoya.thakur893@gmail.com,NeuroWorks
